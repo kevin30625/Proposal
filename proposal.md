@@ -18,24 +18,24 @@ Not planning to combine with another course.
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-Name: Meraj Din
-Email:
+Name: Meraj Din,
+Email: tup10551@temple.edu,
 TA: Elmira Talebianaraki
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I think no matter what happens we will have the game set up with the spaceship at the bottom and the alien ships at the top.
+A good outcome for this project would be for the game to work properly.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Before the project's deadline, I think we will have a game where both the spaceship and the alien ships will be shooting at each other simultaneously and the points and lives will be counted accordingly.
+A better outcome for this project would be finishing the basic code of the game before the deadline and having enough time to make the spectacles better.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-We hope that we will have a fully running game with no bugs before the deadline.
+The best outcome for this project would be having a fully functionl game with no bugs and also have it be visually appealing.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+The next steps for us are to do some research about the game Space Invaders and use it as inspiration to create a similar game. We will need to acquire new skills on how to build a game since this is new for both of us. We will work together step by step in order to create a fully operational game.
